@@ -1,1 +1,1 @@
-usdt,usdc,busd,dai,frax,tusd,usdn,mim,mimatic,ust,usdd,usdp,eur,gbp
+usdt,usdc,busd,dai,frax,tusd,usdn,mim,mimatic,ust,usdd,usdp,eur,gbp,pax
