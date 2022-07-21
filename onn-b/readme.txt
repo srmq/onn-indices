@@ -6,3 +6,39 @@ LUNA terra-luna-classic
 
 EPS ellipsis-old
 ANY anyswap
+
+>>> Categorias
+Bitcoin
+
+Ethereum Ecosystem
+ethereum-ecosystem
+
+BNB Chain Ecosystem
+binance-smart-chain
+
+Polygon Ecosystem
+polygon-ecosystem
+
+Avalanche Ecosystem
+avalanche-ecosystem
+
+Moonriver Ecosystem
+moonriver-ecosystem
+
+Fantom Ecosystem
+fantom-ecosystem
+
+Centralized Exchange
+centralized-exchange-token-cex
+
+Decentralized Finance
+decentralized-finance-defi
+
+NFT
+non-fungible-tokens-nft
+
+Meme
+meme-token
+
+Gaming
+gaming
