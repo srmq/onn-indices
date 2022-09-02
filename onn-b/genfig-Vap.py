@@ -4,7 +4,7 @@ import matplotlib.animation as ani
 import pandas as pd
 from dateutil import parser
 
-arr = json.load(open("ONN-Vap-B-30dW-30dR_2020-12-01_2022-07-01.json"))
+arr = json.load(open("ONN-Vap-B-30dW-30dR_2020-12-01_2022-08-30.json"))
 
 fig = plt.figure()
 
